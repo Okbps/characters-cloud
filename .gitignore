@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/models/mlb.pickle
+/models/characters.model
+/data/ClothingAttributeDataset.zip
+.idea/
+classifiers/__pycache__/
+utils/__pycache__/

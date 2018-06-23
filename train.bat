@@ -1,0 +1,1 @@
+python -W ignore train.py --dataset "d:/Soft/Py/Projects/characters/ClothingAttributeDataset" --model "models/characters.model" --labelbin "models/mlb.pickle" --rows 100 --epochs 4 --batch 16 --dimensions 96,96,3 --learn 1e-3 --architecture extendedvggnet
